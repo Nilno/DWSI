@@ -1,3 +1,6 @@
 
 https://github.com/Nilno/DWSI/tree/gh-pages/Project1
 
+file:///Users/Tearz/Desktop/Classes/DWSI/Week1/Project1/index.html
+
+I do not understand the url as a live website in git hub?
