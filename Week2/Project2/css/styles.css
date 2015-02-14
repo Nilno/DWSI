@@ -1,0 +1,124 @@
+	@font-face {
+  		font-family: 'Audiowide';
+  		font-style: normal;
+  		font-weight: 400;
+  		src: local('Audiowide'), local('Audiowide-Regular'), 
+  		url (http://fonts.gstatic.com/s/audiowide/v4/8XtYtNK
+  		EyyZh481XVWfVOrO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+		}/*---At font for all headings and links---*/
+	
+	
+	h1, h2, h3, a {
+		font-family: 'Audiowide', cursive;
+		font-weight: normal;
+		text-align: center; 
+		}/*---shorthand for headings and links---*/
+   
+	h1 {
+    	font-size: 250%;
+		}/*---Font size for h1---*/
+   
+	h2 {
+    	text-transform: uppercase;
+		}/*---Make all heading level 2 uppercase---*/
+
+	h3 {font-size: 150%;
+		}/*---Font size for heading level 3---*/
+   
+   #top {
+		color: rgb(62,96,111);
+		width: 230px;
+		margin: 10px auto 10px auto;
+		border: 5px double #000;
+		padding: 15px;
+		text-shadow: 2px 1px #FFFF33;
+		border-radius: 10px;
+		box-shadow: 2px 2px #91AA9D;
+		}/*---Logo type heading with text and border box---*/
+	
+	#page {
+		width: 940px;
+		height: auto;
+		margin: 10px auto 10px auto;
+		padding: 20px;
+		border: 4px double #000;
+		background-color: #FFFFEE;
+		border-radius: 10px;
+		box-shadow: 2px 2px #91AA9D;
+		}/*---Main layout for site page---*/
+
+	#gallery {
+		color: #3E606F;
+		width: 249px;
+		margin: 5px auto 5px auto;
+		padding: 20px;
+		text-align: center;
+		}/*---place holder for figure---*/
+		
+	figure {
+		color: #3E606F;
+		text-align:center;
+		}/*---place holder for images---*/
+		
+	ul {
+		width: 550px;
+		padding: 15px;
+		margin: 20px 180px 20px 180px;
+		list-style-type: none;
+		border-top: 2px dotted #000;
+		border-bottom: 2px dotted #000;
+		display: inline-block;
+		}/*---Navigation---*/
+	
+	ol {
+		width: 200px;
+		padding: 15px;
+		margin: 15px 350px 15px 350px;
+		list-style-type: circle;
+		border-top: 2px dotted #000;
+		border-bottom: 2px dotted #000;
+		display: block;
+		}/*---list items of tricks---*/
+
+
+	p { 
+		color: #0000BB;
+		opacity: 0.8;
+		width: 500px;
+		text-align: center;
+		margin: 20px auto 20px auto;
+		line-height: 25px;
+		}/*---Layout of all paragraphs---*/
+
+	strong, em { 
+		color:#006600;
+		opacity: 0.8;
+		}/*---Defining strong and em inside paragraphs---*/
+
+	q { 
+		color:#DD0000;
+		}/*---Defining quotes inside paragraphs---*/
+
+	a:link {
+		font-family: Courier, monospace;
+		margin: 15px 55px 15px 55px; 
+		width: 410px;
+		color: #006600;
+		text-transform: uppercase;
+		text-decoration: none;
+		border: 2px solid #DD0000;
+		display: inline-block;
+		}/*---Defines links---*/
+
+	a:visited {color: #000000;
+		}/*---Defines visited links---*/
+	
+	a:hover {
+		color: #FF3333;
+		background-color: #336699;
+		text-decoration: underline;
+		}/*---Defines links when user hovers over---*/
+	
+	a:active {
+		color: #000000;
+		}/*---Defines pressed down links---*/
