@@ -1,5 +1,5 @@
 
 https://github.com/Nilno/DWSI/tree/gh-pages/Project1
 
-http://nilno.github.io/DWSI/Week1/Project1/index.html
+http://nilno.github.io/DWSI/Week2/Project2/index.html
 
