@@ -1,5 +1,4 @@
 
-https://github.com/Nilno/DWSI/tree/gh-pages/Project3
+https://github.com/Nilno/DWSI/tree/gh-pages/Week3/Read_Amaren_Project3
 
-http://nilno.github.io/DWSI/Week2/Project3/index.html
-
+http://nilno.github.io/DWSI/Week3/Read_Amaren_Project3/index.html
